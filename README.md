@@ -14,3 +14,5 @@ You have to add that button into widget and select the place where you want to p
 As a demo i have use the homea.sgedu.site website. If you click on any inner page or blog, you can find the youtube subscribe button on the left side.
 
 Thankyou!!!
+
+Author: Bibek Aryal
